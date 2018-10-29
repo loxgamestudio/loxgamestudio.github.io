@@ -3,18 +3,18 @@
 	"Version" "0.9"
 	"InformationOfUpdate"	"No information given."
 	"DownloadUrl"	"https://drive.google.com/uc?export=download&confirm=NP6E&id=1xNVLOk_l9B2tEI-FuYI0kF4Yg6ukHHO9"
-	"Size"	"114268373"
+	"Size"	"114268373" //Bytes
 
 	"UpdateUrl"	""
-	"UpdateSize"	""
+	"UpdateSize"	"" //Bytes
 
 	"DeleteFiles"
 	{
-		"Priority" "Before" //Or later.
+		"Priority" "Before" //Or Later.
 	}
 
 	"DeleteFolders"
 	{
-		"Priority" 	"Before" //Or later.
+		"Priority" 	"Before" //Or Later.
 	}
 }
