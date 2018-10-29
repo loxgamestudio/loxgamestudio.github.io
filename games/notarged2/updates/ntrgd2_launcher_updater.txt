@@ -2,7 +2,7 @@
 {
 	"Version" "0.9"
 	"InformationOfUpdate"	"No information given."
-	"DownloadUrl"	"https://doc-0c-2g-docs.googleusercontent.com/docs/securesc/5qi9spdmglr12cc7cpjvj1lljr7rvs4f/9t2ms5g2n4tj02msaqj318djip2ivieo/1540828800000/09003774253365820387/09003774253365820387/1xNVLOk_l9B2tEI-FuYI0kF4Yg6ukHHO9?e=download"
+	"DownloadUrl"	"https://drive.google.com/uc?export=download&id=1xNVLOk_l9B2tEI-FuYI0kF4Yg6ukHHO9"
 	"Size"	"114268373" //Bytes
 
 	"UpdateUrl"	""
