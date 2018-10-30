@@ -3,7 +3,7 @@
 	"Version" "0.9"
 	"InformationOfUpdate"	"No information given."
 	"DownloadUrl"	"https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3NwaDlPT3AtWnloVTNGa0JsSll4eDFoTkhC/root/content"
-	"Size"	"(113890850" //Bytes
+	"Size"	"113890850" //Bytes
 
 	"UpdateUrl"	""
 	"UpdateSize"	"" //Bytes
