@@ -2,8 +2,8 @@
 {
 	"Version" "0.9"
 	"InformationOfUpdate"	"No information given."
-	"DownloadUrl"	"https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.6-setup.exe"
-	"Size"	"114281104" //Bytes
+	"DownloadUrl"	"https://www.7-zip.org/a/7z1805-extra.7z"
+	"Size"	"923870" //Bytes
 
 	"UpdateUrl"	""
 	"UpdateSize"	"" //Bytes
