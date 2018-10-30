@@ -3,7 +3,7 @@
 	"Version" "0.9"
 	"InformationOfUpdate"	"No information given."
 	"DownloadUrl"	"https://filedn.com/lHn9W7sMz6jVsChjrddMw7u/loxgamelauncher064236.7z"
-	"Size"	"114268373" //Bytes
+	"Size"	"114281104" //Bytes
 
 	"UpdateUrl"	""
 	"UpdateSize"	"" //Bytes
