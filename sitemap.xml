@@ -6,6 +6,11 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://www.lgamestudio.com/games/notarged2/index.html</loc>
+    <lastmod>2018-11-1</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://docs.lgamestudio.com/apis/suspiciousdomainchecker/index.html</loc>
     <lastmod>2018-10-30</lastmod>
     <changefreq>weekly</changefreq>
