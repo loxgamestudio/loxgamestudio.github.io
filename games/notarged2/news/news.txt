@@ -1,0 +1,40 @@
+<h1><b><u>NEWS</u></b></h1>
+</br>
+<h2>Lox Game Launcher v0.9</h2>
+<p><u>Lox Game Launcher v0.9 is released.</u> v0.9 will be completely customizable. The launcher is working with chromium, so GUI is HTML, Javascript and CSS. We will allow everyone to make their own themes, and addons for this game launcher.</p>
+</br></br>
+<h2>Lox Game Studio</h2>
+<p>Use Lox Web API to catch suspicious domains.</p>
+</br></br>
+<h2>Discord</h2>
+<iframe width="356" height="256" src="https://www.youtube.com/embed/jL3U7afEVGc" frameborder="0" allow="encrypted-media"></iframe>
+</br></br>
+<h2>Steam</h2>
+<textarea id="newstext" class="newstext-large" style="overflow: auto;" readonly>A new steam client has been released and is being automatically downloaded.
+
+June 8th: This update has been re-released with additional fixes to Steam Link and controller functionality on macOS.
+
+General
+Fixed back/forward buttons in the main steam window and all web views
+
+Windows
+Fixed launch focus issues with some fullscreen games on Windows build 1803
+
+Steam Input
+Fixed a case on macOS where the focused game window would not be detected. Note: for some games you may start getting the recommended configuration instead of the desktop configuration. Not all games on macOS support Steam Input gamepads so if your controller stops working please try changing your configuration to mouse/kb.
+Added a new Steam Controller Bluetooth firmware image. A second Bluetooth pairing slot and been added and the startup gestures for switching slots in both Bluetooth and Wireless Receiver modes have been simplified. To swap which device you want to connect to use Steam+Back in Wireless Receiver Mode and Steam+Start in Bluetooth mode. To obtain the FW update youâ€™ll need to plug into usb and follow the same process as with the previous release. 
+Momentum velocity has been tweaked to be more accurate and decelerate more smoothly
+Fixed a bug which could cause the right stick to lose input on certain controller types in native Steam Input applications (such as camera controls in Prey)
+Fixed an issue with PS4 controllers that caused them to stop working with DirectInput after a few minutes
+Additional fixes for opted out PS4 Controllers
+Fixed Nintendo Switch Pro Controller detection and initialization on Windows 7
+Added note to Switch configuration description clarifying possible issues with using controllers outside of Steam
+Improved Switch Pro functionality in Big Picture when Switch configuration support is disabled
+Fixed incorrect controller slot LED being lit on Switch Pro controller when plugging in to USB while already connected via Bluetooth
+
+In-Home Streaming
+Fixed black screen when hardware encoding with iGPU and streaming to Android devices
+Fixed wireless Steam Controllers showing up as unknown controllers in Big Picture
+Fixed bad input and disconnects from Switch Pro controllers connected via Steam Link - vibration was causing disconnects and has been temporarily disabled.</textarea>
+</br></br></br>
+<center><p style="color: orangered;font-size: 9pt;">News by Aubrey</p><p style="color: #ccc; font-size: 8pt;">All trademarks are property of their respective owners in the US and other countries.</p><p style="color: #ccc; font-size: 8pt;">Copyright Â© 2012 - 2018, Lox Game Studio. All rights reserved.</p></center>
