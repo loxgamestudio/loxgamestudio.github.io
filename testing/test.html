@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test</title>
+</head>
+<body>
+	<script type="text/javascript">
+		           $.ajax({
+            type: 'POST',
+            url: 'https://api.lgamestudio.com/suspiciousdomains/check?domain=anan',
+            data: {},
+            dataType: 'xml',
+            success: function(data) 
+            { $("display").html(data); },
+            error: function() { alert('something bad happened'); }
+            });
+	</script>
+</body>
+</html>
